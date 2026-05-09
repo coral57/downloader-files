@@ -2,6 +2,8 @@
 
 - [0-EW296XTR70Ug](./0-EW296XTR70Ug)
 - [FineVPN-apkProd-release-v0.9.8](./FineVPN-apkProd-release-v0.9.8)
+- [ShadowShare-7.7.0](./ShadowShare-7.7.0)
+- [_cloud_11272](./_cloud_11272)
 - [details](./details)
 - [getlastarm](./getlastarm)
 - [mhrv-rs-android-universal-v1.9.18](./mhrv-rs-android-universal-v1.9.18)
