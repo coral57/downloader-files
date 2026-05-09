@@ -7,6 +7,7 @@
 - [details](./details)
 - [getlastarm](./getlastarm)
 - [mhrv-rs-android-universal-v1.9.18](./mhrv-rs-android-universal-v1.9.18)
+- [termux-app_v0.118.3+github-debug_arm64-v8a](./termux-app_v0.118.3%2Bgithub-debug_arm64-v8a)
 - [v2RayTun_universal](./v2RayTun_universal)
 - [view_video](./view_video)
 
